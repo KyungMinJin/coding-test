@@ -1,3 +1,4 @@
+# 2018 blind recruitment secret map
 def decode(arr, n):
     res = ["" for _ in arr]
     for idx, a in enumerate(arr):
