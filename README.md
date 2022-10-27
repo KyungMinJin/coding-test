@@ -16,3 +16,4 @@
 ## Practice [\Programers\]](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C300%2C301)
 
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
