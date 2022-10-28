@@ -12,9 +12,10 @@
 - [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 - [\[3차\] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686#)
+- [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+- [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 
 ## Practice [\Programers\]](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C300%2C301)
 
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
-- [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
-- [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+- [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
