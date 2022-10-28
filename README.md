@@ -19,3 +19,5 @@
 
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+  - Greedy, minimum spanning tree, and kruskal
