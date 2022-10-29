@@ -15,6 +15,7 @@
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 - [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - [k 진수에서 소수 개수 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 
 ## Practice [\Programers\]](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&partIds=31236%2C25448%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C300%2C301)
 
