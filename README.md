@@ -24,3 +24,5 @@
 - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
   - Greedy, minimum spanning tree, and kruskal
 - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - dynamic programming
