@@ -23,3 +23,4 @@
 - [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
   - Greedy, minimum spanning tree, and kruskal
+- [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
